@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "831150325500",
+    "project_id": "haidarkan-14946",
+    "storage_bucket": "haidarkan-14946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831150325500:android:19a0b83e76da404d602179",
+        "android_client_info": {
+          "package_name": "com.example.admin_haidarkan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831150325500-ch7pkllkks7i5d45q094lrfqq4lj6d2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_haidarkan",
+            "certificate_hash": "58df65f18beb4360f2a032a3e54b5634f3b831f5"
+          }
+        },
+        {
+          "client_id": "831150325500-089qimpie3ev7qajnp61ur2ld39i6hui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzMEPY1-LNNj4C9vJP_bLoNfLnOiU5Mtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831150325500-089qimpie3ev7qajnp61ur2ld39i6hui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831150325500-pkrutqumlpvu2mdadik50slcl65id1er.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.haidarkanApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831150325500:android:abc06ad45ef26afc602179",
+        "android_client_info": {
+          "package_name": "com.example.haidarkan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831150325500-cf733qc7f89sank4u9usvvbjfe47u6i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haidarkan_app",
+            "certificate_hash": "58df65f18beb4360f2a032a3e54b5634f3b831f5"
+          }
+        },
+        {
+          "client_id": "831150325500-089qimpie3ev7qajnp61ur2ld39i6hui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzMEPY1-LNNj4C9vJP_bLoNfLnOiU5Mtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831150325500-089qimpie3ev7qajnp61ur2ld39i6hui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831150325500-pkrutqumlpvu2mdadik50slcl65id1er.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.haidarkanApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
